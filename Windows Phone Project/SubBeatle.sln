@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubBeatle", "SubBeatle\SubBeatle\SubBeatle.csproj", "{A15E4191-F714-45A9-842A-F1E3094B607E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubBeatleContent", "SubBeatle\SubBeatleContent\SubBeatleContent.contentproj", "{33F4E6D0-825B-49F8-B779-694F87C14E57}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15E4191-F714-45A9-842A-F1E3094B607E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A15E4191-F714-45A9-842A-F1E3094B607E}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{A15E4191-F714-45A9-842A-F1E3094B607E}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{A15E4191-F714-45A9-842A-F1E3094B607E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{A15E4191-F714-45A9-842A-F1E3094B607E}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{A15E4191-F714-45A9-842A-F1E3094B607E}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{33F4E6D0-825B-49F8-B779-694F87C14E57}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{33F4E6D0-825B-49F8-B779-694F87C14E57}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

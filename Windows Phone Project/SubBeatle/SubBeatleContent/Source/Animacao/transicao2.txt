@@ -1,0 +1,4 @@
+transicao2 = 0 0 152 210
+transicao3 = 153 0 152 210
+transicao0 = 306 0 152 210
+transicao1 = 0 211 152 210
